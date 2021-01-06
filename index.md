@@ -1,4 +1,4 @@
-![This is Chris logo](images/thisischrislogo.png)
+![This is Chris logo](images/DSC01338.jpg)
 
 Hello and welcome to my blog.
 
