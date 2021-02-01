@@ -1,3 +1,5 @@
+# The Pervert's Dilemma
+
 In [Introducing the pervert's dilemma](https://link.springer.com/article/10.1007/s10676-019-09522-1), Carl Öhman proposes a mode of philosophical inquiry to solve, at least partially, what he calls the *pervert's dilemma*. This problem focuses on the seemingly contradictory moral intuitions we have about sexual fantasies and Deepfake pornography as a society. The dilemma is framed as follows. Consider conditions A and B, where if a person is being fantasized about, A) that person will never find out they are the subject of a fantasy, and B) it is impossible to ever share the contents of the fantasy with anyone. Herein lies the dilemma:
 
 1. Creating pornographic Deepfake videos based on someone's face, without their explicit consent, is morally impermissible.
